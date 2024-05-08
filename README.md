@@ -35,5 +35,8 @@ print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
 
+![Screenshot 2024-05-08 232739](https://github.com/mercyarulappan/Word-Count/assets/149233730/69ea0391-1e0d-4001-bc0a-52ad44fc1755)
+
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
